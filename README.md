@@ -1,4 +1,7 @@
 # docker-build-essentials
+
+[![](https://badge.imagelayers.io/sys42/docker-build-essentials:latest.svg)](https://imagelayers.io/?images=sys42/docker-build-essentials:latest 'Get your own badge on imagelayers.io')
+
 Base image for Software Platforms which requires Native Compilation (NodeJS, Ruby, PHP etc.pp.)
 
 Extends [the base image](https://github.com/sys42/docker-base) with the following packages:
