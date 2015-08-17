@@ -1,5 +1,4 @@
 .git/*
-tests
 *.md
 *.sh
 LICENSE
